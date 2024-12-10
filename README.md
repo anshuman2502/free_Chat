@@ -34,13 +34,6 @@ Welcome to **Free Chat**, a simple, real-time, and fully functional chat applica
 
 ---
 
-## 🌍 Demo
-
-Check out the live demo of the app at:  
-[**Insert your live demo URL here**]
-
----
-
 ## 🖥️ Installation
 
 ### Prerequisites
